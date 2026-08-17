@@ -1,0 +1,10 @@
+parameter,value,unit
+mass,1200,kg
+wing_area,16.2,m2
+aspect_ratio,8.5,-
+oswald_efficiency,0.80,-
+cd0,0.025,-
+cl_max,1.60,-
+thrust,3500,N
+air_density,1.225,kg/m3
+gravity,9.80665,m/s2
